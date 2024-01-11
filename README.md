@@ -1,3 +1,7 @@
+# Live preview
+
+https://startling-souffle-0d123b.netlify.app/
+
 # Frontend Mentor - Todo app
 
 This is Todo app challenge form Frontend Mentor Challenges created by React using vite
